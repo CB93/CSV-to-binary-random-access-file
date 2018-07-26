@@ -13,7 +13,7 @@ For simplicity, both files reside in the program’s current directory.
 Create.exe sourcefilename destinationfilename
 ```
 
-## Displaay.exe
+## Display.exe
 Diplay.exe reads the data file generated in Create.exe then displays the data to the screen.
 
 These filenames must also be passed to the program via command line arguments.
