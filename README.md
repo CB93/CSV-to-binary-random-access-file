@@ -15,8 +15,8 @@ exename sourcefilename destinationfilename
 ## CSV format
 
 Each CSV file line contains five fields:
-• AccountNumber
-• FirstName
+• AccountNumber\n
+• FirstName\n
 • LastName
 • AccountBalance
 • LastPaymentAmount
