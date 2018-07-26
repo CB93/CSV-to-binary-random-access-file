@@ -21,7 +21,7 @@ Each CSV file line contains five fields:
 • AccountBalance
 • LastPaymentAmount
 
-# CSV file line example:
+## CSV file line example:
 
 ```
 1001, Cosmo, Kramer, 5827.48, 1500.00
