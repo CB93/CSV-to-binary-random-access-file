@@ -13,6 +13,7 @@ Each CSV file line contains five fields:
 • LastPaymentAmount
 
 You can assume that the file format is always correct (minimal validation required).
+
 CSV file line example:
 
 1001, Cosmo, Kramer, 5827.48, 1500.00
