@@ -1,14 +1,25 @@
 # CSV-to-binary-random-access-file
 
-Create.c is program that reads a CSV file, parses each line, populates an appropriately defined struct and
-writes the struct to a file in binary format (.dat format) ,over writing the file if it exists.
+## Create.exe
+Create.exe is a program that reads a .CSV file, parses each line, and populates an appropriately defined struct of mock
+banking imformation. Followed by this, each struct is stored into an array and written to a .DAT file in binary format, overwriting
+the file if it exists.
 
 The filenames must be passed to the program via command line arguments.
 For simplicity, both files reside in the program’s current directory.
 
 ### Example:
 ```
-exename sourcefilename destinationfilename
+Create.exe sourcefilename destinationfilename
+```
+
+## Displaay.exe
+Diplay.exe reads the data file generated in Create.exe then displays the data to the screen.
+
+These filenames must also be passed to the program via command line arguments.
+### Example:
+```
+Display.exe sourcefilename
 ```
 
 ## CSV format
