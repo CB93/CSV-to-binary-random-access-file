@@ -1,5 +1,5 @@
 // Caleb Brown A01023052
-// Assignment 07 Create.c
+// Create.c
 // June 25th, 2018
 
 
