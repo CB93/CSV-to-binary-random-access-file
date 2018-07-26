@@ -19,6 +19,6 @@ CSV file line example:
 1001, Cosmo, Kramer, 5827.48, 1500.00
 
 The filenames will be passed to the program via command line arguments.
-For simplicity, have both files reside in the program’s current directory.
+For simplicity, both files reside in the program’s current directory.
 Example:
 exename sourcefilename destinationfilename
