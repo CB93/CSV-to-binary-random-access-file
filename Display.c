@@ -1,5 +1,5 @@
 // Caleb Brown A01023052
-// Assignment 07 Display.c
+// Display.c
 // June 25th, 2018
 
 #define _CRT_SECURE_NO_WARNINGS
